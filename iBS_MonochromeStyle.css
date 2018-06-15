@@ -63,8 +63,9 @@ p{
 }
 #boxed-green{
     border-style: solid;
-    border-width: 5px;
+    border-width: 3px;
     border-color: #40ff20;
+    padding: 3px;
 }
 
 
