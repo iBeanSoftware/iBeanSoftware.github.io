@@ -64,6 +64,13 @@ p{
     font-family: Courier New;;
 }
 
+#boxed-white{
+    border-style: solid;
+    border-width: 3px;
+    border-color: #fff;
+    padding: 3px;
+}
+
 
 .image-banner {
     width: 100%;
