@@ -1,2 +1,8 @@
-# iBeanSoftware.github.io
-Soon to be iBean's Website
+ly# iBeanSoftware.github.io
+Currently iBean Software's Main Website
+With:
+About Page -
+Minu Page - 
+Home Page - 
+
+
