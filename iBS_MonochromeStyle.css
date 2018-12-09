@@ -83,7 +83,11 @@ p{
     width: 100%;
 }
 
-.image-small {
+.image-realy-small {
+    width: 25px;
+}
+
+    .image-small {
     width: 100px;
 }
     
