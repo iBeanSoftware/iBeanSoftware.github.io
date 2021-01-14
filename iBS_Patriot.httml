@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="keywords" content="iBean Software,iBeanSoftware,iBean,iBean Menu,C++,Unicode,HTML,CSS,">
+        <meta name="description" content="iBean Software's Page Menu">
+        <meta name="Author" content="Nash Bean">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">     
+
+        <link rel="stylesheet" type="text/css" href="../iBS_MonochromeStyle.css">
+             
+        <title>iBean Main Menu</title>
+                    
+        <!--
+        <script 
+            type="text/javascript" 
+            src="http://counter8.fcs.ovh/private/counter.js?c=a7d78646f0fa06c9dbd66d8ec2642f38">
+        </script>
+       
+     </head>
+    
+    <body>
+         <h1>iBean Patriot Page:</h1>
+ 
+           
+        
+        <p></p>
+        <h3> iBean Software Links </h3>
+        <p>_______________________________________________________________</p>
+        <p>
+        <a href="http://iBeanSoftware.github.io/about.html">| About Page </a> 
+        <a href="https://iBeanSoftware.github.io/iBSHome.html ">| Home Page </a> 
+        <a href="http://iBeanSoftware.github.io/index.html">| Menu Page |</a> 
+        </p>        
+        <p>
+        <a href="https://iBeanSoftware.github.io/ProductPage.html">| Product Page </a> 
+        <a href="https://iBeanSoftware.github.io/HomePage.html ">| Your Home Page </a> 
+        <a href="http://iBeanSoftware.github.io/iBSLib.html">| Lib Page |</a> 
+        </p> 
+        <p>_______________________________________________________________</p>
+
+    </body>
+    
+</html>
+© 2021 GitHub, Inc.
